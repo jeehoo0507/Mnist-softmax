@@ -1,5 +1,5 @@
 import torch
-import torchvision.datasets as dsets
+import torchvision.datasets as datasets
 import torchvision.transforms as transforms
 from torch.utils.data import Dataset, DataLoader
 import torch.nn as nn
